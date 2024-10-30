@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Gamil Al-Ansi, and I am focused on learning data analysis and IT support. Right now, I’m building my skills in Python and Excel to improve how I work with data.
+My name is Gamil Al-Ansi, and I am focused on learning data analysis and IT Technician. Right now, I’m building my skills in Python and Excel to improve how I work with data.
 
-- 🔭 I’m working on: Strengthening my skills in data analysis and IT support, especially organizing data and fixing computer issues.
+- 🔭 I’m working on: Strengthening my skills in data analysis and IT Technician, especially organizing data and fixing computer issues.
 
 - 🌱 I’m learning: Python, Excel, and some project management skills. I’m also getting ready for an internship soon.
 
