@@ -10,8 +10,6 @@ My name is Gamil Al-Ansi, and I am focused on learning data analysis and IT Tech
 
 - 🤔 I need help with: Learning more about data security and cloud technology to keep data safe.
 
-  -  Feel free to send me ideas at: alansigamil@gmail.com
-
   - Thank you for reading about me!
 
 <!--
