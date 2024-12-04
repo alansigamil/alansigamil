@@ -4,7 +4,11 @@ My name is Gamil Al-Ansi, and I am focused on learning data analysis and IT Tech
 
 - 🔭 I’m working on: Strengthening my skills in data analysis and IT Technician, especially organizing data and fixing computer issues.
 
-- 🌱 I’m learning: Python, Excel, and some project management skills. I’m also getting ready for an internship soon.
+- 🌱 Current Learning Journey:
+
+I’m currently developing my skills in Python, Excel, and project management to strengthen my data analysis expertise.
+
+As part of my journey, I had the opportunity to intern at Vexxa AB, where I applied these skills in real-world projects like JobHunt, focusing on data-driven solutions and insights.
 
 - 👯 I want to collaborate: On data or IT projects where I can help improve systems and learn from others.
 
